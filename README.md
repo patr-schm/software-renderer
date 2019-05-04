@@ -1,2 +1,2 @@
 # software-renderer
-Educational software renderer in Python
+An educational software renderer in Python.
